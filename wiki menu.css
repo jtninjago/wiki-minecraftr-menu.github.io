@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    padding: 20px;
+    
+}
+html {
+    background-image: url(https://wallpapers.com/images/featured/s2kxfahyg30sob8q.jpg);
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 12px;
+    padding: 12px
+}
+div {
+    background-color: azure;
+}
+b {
+    font-family: 'Dosis', sans-serif;
+    padding-left: 12px;
+}
+h4 {
+    color: azure;
+}
+
+
+
+a {
+    color:blue;
+}
+h2 {
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+}
